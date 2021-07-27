@@ -1,0 +1,347 @@
+{
+	"$schema": "./schema.json",
+	"version": 2,
+	"generated_at": 1626646594398,
+	"categories": {
+		"games": {
+			"name": "Games",
+			"description": "Test your finger speed.",
+			"icon": "fas fa-gamepad",
+			"locales": [{
+				"en-IN": "English"
+			}]
+		},
+		"entertainment": {
+			"name": "Entertainment"
+            "description": "LIVE: Cricket, TV Shows, News, Movies, Entertainment, Religious & more."
+            "icon": "fas fa-film"
+            "locales": [{
+                "en-IN": "English"
+			}]
+		},
+		"social": {
+			"name": "Social",
+			"icon": "fas fa-users",
+			"locales": [{
+				"en-IN": "English"
+			}]
+		},
+		"news": {
+			"name": "News",
+			"description": "Apps that provide access to news sources.",
+			"icon": "fas fa-newspaper",
+			"locales": [{
+				"en-IN": "English"
+			}]
+		},
+		"utilities": {
+			"name": "Utilities",
+			"description": "Utilities to help with daily functions.",
+			"icon": "fas fa-wrench",
+			"locales": [{
+				"en-IN": "English"
+			}]
+		},
+		"homescreen": {
+			"name": "Homescreen",
+			"description": "Homescreens for JioPhone",
+			"icon": "fas fa-tshirt",
+			"locales": [{
+				"en-IN": "English"
+			}]
+		},
+		"health": {
+			"name": "Health",
+			"description": "Health related utilities",
+			"icon": "fas fa-file-medical",
+			"locales": [{
+				"en-IN": "English"
+			}]
+		},
+		"education": {
+			"name": "Education",
+			"description": "Apps that provide access to Education sources.",
+			"icon": "fas fa-book-reader",
+			"locales": [{
+				"en-IN": "English"
+			}]
+		}
+	},
+	"apps": [{
+		"name": "JioGames",
+		"description": " Have fun by playing the exciting games",
+		"icon": "https://storedb.opengiraffes.top/icons/2048.png",
+		"website": "https://www.jio.com/",
+		"download": {
+			"url": "https://cdn.jsdelivr.net/gh/openGiraffes/openGiraffes-store-binary@main/apps/FromStoreGames/2048/2048.zip",
+			"version": "1.4.2"
+		},
+		"type": 
+		"locales": ["en-(US)"],
+		"license": 
+		"author": ["Jio"],
+		"maintainer": ["Jio"],
+		"dependencies": [],
+		"has_ads": true,
+		"has_tracking": false,
+		"meta": {
+			"tags": "Jiogames",
+			"categories": ["games"]
+		},
+		"fromstore": true,
+		"slug": "JioGames",
+		"screenshots": []
+	}, {
+        "name": "JioTV",
+		"description": "JioTV provides 700+ Live TV channels and 7 days of Catch Up. It has useful features like hotkeys support for accessing various screens of the app and channels, marking channels and programs as favourites, search for channels, current, past and future programs.",
+		"icon": "",
+		"website": "https://www.jio.com/",
+		"download": {
+			"url": "",
+			"version": "1.6.6.4"
+		},
+		"type": 
+		"locales": ["en(US)"],
+		"license": 
+		"author": ["Jio"],
+		"maintainer": ["Jio"],
+		"dependencies": [],
+		"has_ads": true,
+		"has_tracking": false,
+		"meta": {
+			"tags": "jiotv",
+			"categories": ["entertainment"]
+		},
+		"fromstore": true,
+		"slug": "JioTV",
+		"screenshots": []
+    }, {
+            "name": "YouTube",
+		"description": "Watch, stream and discover what the world is watching with YouTube. YouTube gives everyone a voice and a platform to discover the world. Explore brand new content, music, news and more with the official YouTube app.",
+		"icon": "",
+		"website": "https://m.youtube.com/",
+		"download": {
+			"url": "",
+			"version": "1.92.53"
+		},
+		"type": 
+		"locales": ["en(US)"],
+		"license": 
+		"author": ["Youtube LLC"],
+		"maintainer": ["Youtube LLC"],
+		"dependencies": [],
+		"has_ads": true,
+		"has_tracking": false,
+		"meta": {
+			"tags": "youtube",
+			"categories": ["entertainment"]
+		},
+		"fromstore": true,
+		"slug": "YouTube",
+		"screenshots": []
+	}, {
+	    "name": "WhatsApp",
+		"description": "W﻿h﻿a﻿t﻿s﻿A﻿p﻿p Messenger is a FREE messaging app available for JioPhone and other smartphones. W﻿h﻿a﻿t﻿s﻿A﻿p﻿p uses your phone's Internet connection (4G or Wi-Fi, as available) to let you message friends and family. Switch from SMS to W﻿h﻿a﻿t﻿s﻿A﻿p﻿p to send and receive messages, photos, videos, and Voice Messages.\n\n*Data charges may apply. Contact your provider for details.",
+		"icon": "",
+		"website": "https://www.whatsapp.com",
+		"download": {
+			"url": "",
+			"version": "2.2118.12.1"
+		},
+		"type": 
+		"locales": ["en(US)"],
+		"license": 
+		"author": ["WhatsApp Inc"],
+		"maintainer": ["WhatsApp Inc"],
+		"dependencies": [],
+		"has_ads": false,
+		"has_tracking": true,
+		"meta": {
+			"tags": "whatsapp",
+			"categories": ["social"]
+		},
+		"fromstore": true,
+		"slug": "WhatsApp",
+		"screenshots": []
+	}, {
+	        "name": "Facebook",
+		"description": "Connect and keep up with your friends.",
+		"icon": "",
+		"website": "https://www.facebook.com/",
+		"download": {
+			"url": "",
+			"version": "2.0.3.41"
+		},
+		"type": 
+		"locales": ["en(US)"],
+		"license": 
+		"author": ["Facebook"],
+		"maintainer": ["Facebook"],
+		"dependencies": [],
+		"has_ads": true,
+		"has_tracking": false,
+		"meta": {
+			"tags": "Facebook",
+			"categories": ["social"]
+		},
+		"fromstore": true,
+		"slug": "Facebook",
+		"screenshots": []
+	}, {
+        "name": "JioNews",
+		"description": "JioNews is the revolutionary digital product. Your one stop solution for Breaking News, Live TV, Videos, Magazines, Newspapers, & much more in 10+ Indian Languages.",
+		"icon": "",
+		"website": "https://www.jio.com/",
+		"download": {
+			"url": "",
+			"version": "3.1.5.3"
+		},
+		"type": 
+		"locales": ["en(US)"],
+		"license": 
+		"author": ["Jio"],
+		"maintainer": ["Jio"],
+		"dependencies": [],
+		"has_ads": true,
+		"has_tracking": false,
+		"meta": {
+			"tags": "Jionews",
+			"categories": ["news"]
+		},
+		"fromstore": true,
+		"slug": "JioNews",
+		"screenshots": []
+	}, {
+        "name": "MyJio",
+		"description": "Get MyJio app to subscribe to exciting Jio offers. Recharge your Jio number, view real time balance, link & manage multiple accounts and much more!",
+		"icon": "",
+		"website": "https://www.jio.com/",
+		"download": {
+			"url": "",
+			"version": "2.1.31.0"
+		},
+		"type": 
+		"locales": ["en(US)"],
+		"license": 
+		"author": ["Jio"],
+		"maintainer": ["Jio"],
+		"dependencies": [],
+		"has_ads": true,
+		"has_tracking": false,
+		"meta": {
+			"tags": "myjio",
+			"categories": ["utilities"]
+		},
+		"fromstore": true,
+		"slug": "MyJio",
+		"screenshots": []
+	}, {
+        "name": "JioPay",
+		"description": "Use JioPay to make payment securely from Jiophone",
+		"icon": "",
+		"website": "https://www.jio.com/",
+		"download": {
+			"url": "",
+			"version": "2.4.4.4"
+		},
+		"type": 
+		"locales": ["en(US)"],
+		"license": 
+		"author": ["Jio"],
+		"maintainer": ["Jio"],
+		"dependencies": [],
+		"has_ads": true,
+		"has_tracking": false,
+		"meta": {
+			"tags": "jiopau",
+			"categories": ["utilities"]
+		},
+		"fromstore": true,
+		"slug": "JioPay",
+		"screenshots": []
+	}, {
+		"name": "Intent",
+		"description": "Intent 工具箱",
+		"icon": "https://storedb.opengiraffes.top/icons/intent.png",
+		"screenshots": [],
+		"website": "https://github.com/Lcsunm/Intent-KaiOS",
+		"git_repo": "https://github.com/Lcsunm/Intent-KaiOS",
+		"download": {
+			"url": "https://git.yumenaka.net/https://github.com/Lcsunm/Intent-KaiOS/releases/download/v0.1.3/intent-omnisd-nightly.zip",
+			"version": "0.1.3"
+		},
+		"type": "certified",
+		"locales": ["中文(简体)"],
+		"license": "MIT",
+		"author": ["Lcsunm"],
+		"maintainer": ["Lcsunm"],
+		"dependencies": [{
+			"name": "Test",
+			"url": "https://github.com/Lcsunm/Intent-KaiOS"
+		}, {
+			"name": "Test2",
+			"url": ""
+		}],
+		"donation": null,
+		"has_ads": false,
+		"has_tracking": false,
+		"meta": {
+			"tags": "intent",
+			"categories": ["utility"]
+		},
+		"fromstore": false,
+		"slug": "intent"
+	}, {
+		"name": "ThemeWhite-KaiOS",
+		"description": "KaiOS 主题 ThemeWhite.",
+		"icon": "https://storedb.opengiraffes.top/icons/theme-white.png",
+		"website": "https://github.com/Lcsunm/ThemeWhite-KaiOS",
+		"git_repo": "https://github.com/Lcsunm/ThemeWhite-KaiOS",
+		"download": {
+			"url": "https://git.yumenaka.net/https://github.com/Lcsunm/ThemeWhite-KaiOS/releases/download/t0.1.3/themewhite-omnisd-nightly.zip",
+			"version": "0.1.3"
+		},
+		"type": "privileged",
+		"locales": ["中文(简体)"],
+		"license": "MIT",
+		"author": ["Lcsunm"],
+		"maintainer": ["Lcsunm"],
+		"dependencies": [{
+			"name": "Intent",
+			"url": "https://store.opengiraffes.top/#intent"
+		}],
+		"has_ads": false,
+		"has_tracking": false,
+		"meta": {
+			"tags": "theme",
+			"categories": ["homescreen"]
+		},
+		"fromstore": false,
+		"slug": "theme-white",
+		"screenshots": []
+	}, {
+        "name": "PDF Viewer",
+		"description": "This application lets you read any PDF document stored on your device memory or SD Card.",
+		"icon": "",
+		"website": "https://,www.jio.com",
+		"download": {
+			"url": "",
+			"version": "1.0.9.1"
+		},
+		"type": 
+		"locales": ["en(US)"],
+		"license": 
+		"author": ["Jio"],
+		"maintainer": ["Jio"],
+		"dependencies": [],
+		"has_ads": false,
+		"has_tracking": false,
+		"meta": {
+			"tags": "pdfviewer",
+			"categories": ["education"]
+		},
+		"fromstore": true,
+		"slug": "PDF Viewer",
+		"screenshots": []
+	}]
+}
