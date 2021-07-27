@@ -1,0 +1,34 @@
+name: JioNews
+description: JioNews is the revolutionary digital product. Your one stop solution for Breaking News, Live TV, Videos, Magazines, Newspapers, & much more in 10+ Indian Languages.
+icon: 
+# screenshots are optional
+screenshots:
+ -
+ -
+ - 
+# website is optional
+website: https://www.jio.com/
+# git repo is optional
+git_repo: 
+download:
+  url: 
+  version: "3.1.5.3"
+type:
+locales: 
+ -en-US
+license: Jio Media Team
+author: Jio Media Team
+maintainer: 
+  -Jio Media Team
+# dependencies is optional but need to keep the item there
+dependencies:
+  
+# donation is optional
+donation:
+has_ads: false
+has_tracking: false
+meta:
+  tags: Jionews
+  categories:
+   - news
+fromstore: false

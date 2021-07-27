@@ -1,0 +1,34 @@
+name: YouTube
+description: Watch, stream and discover what the world is watching with YouTube. YouTube gives everyone a voice and a platform to discover the world. Explore brand new content, music, news and more with the official YouTube app.
+icon: 
+# screenshots are optional
+screenshots: 
+ -
+ -
+ -  
+# website is optional
+website: https://m.youtube.com/
+# git repo is optional
+git_repo: 
+download:
+  url: 
+  version: "1.92.53"
+type:
+locales: 
+ -en-US
+license: YouTube LLC
+author: YouTube LLC
+maintainer: 
+-YouTube LLC
+# dependencies is optional but need to keep the item there
+dependencies:
+  
+# donation is optional
+donation:
+has_ads: true
+has_tracking: false
+meta:
+  tags: Youtube
+  categories:
+   - entertainment
+fromstore: false

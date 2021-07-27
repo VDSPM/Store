@@ -1,0 +1,32 @@
+name: JioPay
+description: Use JioPay to make payment securely from Jiophone
+icon: 
+# screenshots are optional
+screenshots: 
+  
+# website is optional
+website: https://www.jio.com/
+# git repo is optional
+git_repo: 
+download:
+  url: 
+  version: "2.4.4.4"
+type:
+locales: 
+  
+license: 
+author: Jio
+maintainer: 
+  -Jio
+# dependencies is optional but need to keep the item there
+dependencies:
+  
+# donation is optional
+donation:
+has_ads: true
+has_tracking: false
+meta:
+  tags: jiopay
+  categories:
+   - utilities
+fromstore: false

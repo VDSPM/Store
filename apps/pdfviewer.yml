@@ -1,0 +1,34 @@
+name: PDF Viewer
+description: This application lets you read any PDF document stored on your device memory or SD Card.
+icon: 
+# screenshots are optional
+screenshots: 
+ -
+ -
+ -
+# website is optional
+website: https://www.jio.com
+# git repo is optional
+git_repo: 
+download:
+  url: 
+  version: "1.0.9.1"
+type:
+locales:
+  -en-US
+license: Jio
+author: Jio
+maintainer: 
+  -Jio
+# dependencies is optional but need to keep the item there
+dependencies:
+  
+# donation is optional
+donation:
+has_ads: false
+has_tracking: false
+meta:
+  tags: pdfviewer
+  categories:
+   - education
+fromstore: false

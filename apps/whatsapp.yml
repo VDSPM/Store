@@ -1,0 +1,31 @@
+name: WhatsApp
+description: W﻿h﻿a﻿t﻿s﻿A﻿p﻿p Messenger is a FREE messaging app available for JioPhone and other smartphones. W﻿h﻿a﻿t﻿s﻿A﻿p﻿p uses your phone's Internet connection (4G or Wi-Fi, as available) to let you message friends and family. Switch from SMS to W﻿h﻿a﻿t﻿s﻿A﻿p﻿p to send and receive messages, photos, videos, and Voice Messages.\n\n*Data charges may apply. Contact your provider for details.
+icon: 
+# screenshots are optional
+screenshots:
+ -
+ -
+ -
+  
+# website is optional
+website: https://www.whatsapp.com
+# git repo is optional
+git_repo: 
+download:
+  url: 
+  version: "2.2118.12.1"
+type:
+locales: 
+  -en-US
+license:
+author: WhatsApp Inc
+maintainer: WhatsApp Inc
+# donation is optional
+donation:
+has_ads: false
+has_tracking: false
+meta:
+  tags: WhatsApp
+  categories:
+   -social
+fromstore: true

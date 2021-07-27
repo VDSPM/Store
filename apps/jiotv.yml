@@ -1,0 +1,34 @@
+name: JioTV
+description: JioTV provides 700+ Live TV channels and 7 days of Catch Up. It has useful features like hotkeys support for accessing various screens of the app and channels, marking channels and programs as favourites, search for channels, current, past and future programs.
+icon: 
+# screenshots are optional
+screenshots:
+ -
+ -
+ -
+# website is optional
+website: https://www.jio.com/
+# git repo is optional
+git_repo: 
+download:
+  url: 
+  version: "1.6.6.4"
+type:
+locales: 
+ -en-US
+license: Jio
+author: Jio
+maintainer:
+ -Jio
+# dependencies is optional but need to keep the item there
+dependencies:
+  
+# donation is optional
+donation:
+has_ads: true
+has_tracking: false
+meta:
+  tags: live tv
+  categories:
+   - entertainment
+fromstore: false

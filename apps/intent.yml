@@ -1,0 +1,34 @@
+name: Intent
+description: Intent 工具箱
+icon: https://cdn.jsdelivr.net/gh/Lcsunm/Intent-KaiOS@master/application/icons/icon128x128.png
+# screenshots are optional
+screenshots:
+  
+# website is optional
+website: https://github.com/Lcsunm/Intent-KaiOS
+# git repo is optional
+git_repo: https://github.com/Lcsunm/Intent-KaiOS
+download:
+  url: https://git.yumenaka.net/https://github.com/Lcsunm/Intent-KaiOS/releases/download/v0.1.3/intent-omnisd-nightly.zip
+  version: "0.1.3"
+type: certified
+locales: 
+  - 中文(简体)
+license: MIT
+author: Lcsunm
+maintainer: 
+  - Lcsunm
+dependencies: 
+  - name: Test
+    url: https://github.com/Lcsunm/Intent-KaiOS
+  - name: Test2
+    url: 
+#donation is optional
+donation:
+has_ads: false
+has_tracking: false
+meta:
+  tags: intent
+  categories:
+   - utility
+fromstore: false
