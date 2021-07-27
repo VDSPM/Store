@@ -1,1 +1,34 @@
-
+name: JioGames
+description: Have fun by playing the exciting games
+icon: 
+# screenshots are optional
+screenshots:
+ -
+ -
+ -  
+# website is optional
+website: https://www.jio.com/
+# git repo is optional
+git_repo: 
+download:
+  url: 
+  version: "2.5.0.2"
+type:
+locales: 
+  -en-US
+license: Jio
+author: Jio
+maintainer: 
+ -Jio
+# dependencies is optional but need to keep the item there
+dependencies:
+  
+# donation is optional
+donation:
+has_ads: true
+has_tracking: false
+meta:
+  tags: JioGames
+  categories:
+   - games
+fromstore: false
