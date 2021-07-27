@@ -1,1 +1,5 @@
-
+name: Entertainment
+description: LIVE: Cricket, TV Shows, News, Movies, Entertainment, Religious & more.
+icon: fas fa-film
+locales: 
+  - en-IN: English
