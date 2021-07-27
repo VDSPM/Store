@@ -1,1 +1,31 @@
-
+name: 
+description:
+icon: 
+# screenshots are optional
+screenshots:
+  
+# website is optional
+website: 
+# git repo is optional
+git_repo: 
+download:
+  url: 
+  version:
+type:
+locales: 
+  
+license:
+author: 
+maintainer: 
+# dependencies is optional but need to keep the item there
+dependencies:
+  
+# donation is optional
+donation:
+has_ads:
+has_tracking:
+meta:
+  tags: 
+  categories:
+   -
+fromstore: 
