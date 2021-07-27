@@ -1,0 +1,7 @@
+name: Webapps
+## description is optional
+description: To migrate your web-based app to KaiOS.
+## Font Awesome icon name (fontawesome.com)
+icon:  fas fa-film
+locales:
+ - en-US: English

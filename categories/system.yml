@@ -1,0 +1,7 @@
+name: System Apps
+## description is optional
+description: System Apps
+## Font Awesome icon name (fontawesome.com)
+icon: fas fa-film
+locales:
+ - en_US: English

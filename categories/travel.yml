@@ -1,0 +1,6 @@
+name: Travel
+description: Useful tools for traveling
+## Font Awesome icon name (fontawesome.com)
+icon: fas fa-plane
+locales: 
+  - zh-CN: 出行

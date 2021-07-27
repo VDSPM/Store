@@ -1,0 +1,5 @@
+name: Homescreen
+description: Customise our KaiOS Phone Homescreen.
+icon: fas fa-wrench
+locales: 
+  - zh-CN: 工具

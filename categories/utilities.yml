@@ -1,0 +1,5 @@
+name: Utilities
+description: Utilities to help with daily functions.
+icon: fas fa-wrench
+locales: 
+  - zh-CN: 工具
