@@ -1,0 +1,32 @@
+name: Homescreen
+description: F320b Launcher Homescreen For Other Jio Phone Models By Mobile And Computer Tech Youtube channel
+icon: https://vdspm.github.io/Server/icons/F320B Homescreen/vertical_84.png
+# screenshots are optional
+screenshots:
+  
+# website is optional
+website: https://mctechyt.blogspot.com/?m=1
+# git repo is optional
+git_repo: 
+download:
+  url: https://vdspm.github.io/Server/Apps/F320B Homescreen.zip
+  version: "2.2"
+type:
+locales: 
+ -en-US
+license: Mobile and computer Tech
+author: Mobile and computer Tech
+maintainer: 
+ -Mobile and computer Tech
+# dependencies is optional but need to keep the item there
+dependencies:
+  
+# donation is optional
+donation:
+has_ads: false
+has_tracking: false
+meta:
+  tags: f320b homescreen
+  categories:
+   - homescreen
+fromstore: false
